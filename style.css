@@ -1,0 +1,21 @@
+.titulo-1{
+    color: aliceblue;
+    background-color: black;
+}
+body{
+    background-image: url(https://w0.peakpx.com/wallpaper/790/356/HD-wallpaper-black-plain-thumbnail.jpg);
+    background-image:url(https://www.recetasnestle.com.ec/sites/default/files/srh_recipes/4e4293857c03d819e4ae51de1e86d66a.jpg);
+    background-size: cover;
+}
+.button{
+    background-color: red;
+}
+.button p{
+    color: black;
+}
+tr{
+    background-color: white;
+}
+caption{
+ background-color: white;
+}
